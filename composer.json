@@ -8,7 +8,7 @@
         "php": "^8.2",
         "dompdf/dompdf": "^3.0",
         "laravel/breeze": "^2.0",
-        "laravel/cashier": "^15.3",
+        "laravel/cashier": "^16.5",
         "laravel/framework": "^11.9",
         "laravel/tinker": "^3.0"
     },
